@@ -1,4 +1,4 @@
-SRC=src/08*.c
+SRC=src/09*.c
 TARGET=firmware.elf
 BUILD_DIR=.
 CC=arm-none-eabi-gcc
