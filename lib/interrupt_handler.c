@@ -56,8 +56,9 @@ void __nvic_set_priority(uint8_t IRQ, uint8_t IP)
 }
 void WWDG_IRQHandler()
 {
-    // do something
+    //
 }
+
 void PVD_IRQHandler()
 {
     // do something
